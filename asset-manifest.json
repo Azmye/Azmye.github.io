@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c9d7d38.css",
-    "main.js": "/static/js/main.1394f82c.js",
+    "main.css": "/static/css/main.198d5380.css",
+    "main.js": "/static/js/main.a15723f7.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/zeitplan-hr.png": "/static/media/zeitplan-hr.7e6e064c65fa20c129d4.png",
     "static/media/zeitplan-vr.png": "/static/media/zeitplan-vr.739c4aca3d0df65d003c.png",
     "static/media/Muhammad Azmi_Resume.pdf": "/static/media/Muhammad Azmi_Resume.e055e4ecebaf77117fdf.pdf",
     "static/media/profile-1.png": "/static/media/profile-1.8f255b0a793bd867d5c9.png",
     "index.html": "/index.html",
-    "main.1c9d7d38.css.map": "/static/css/main.1c9d7d38.css.map",
-    "main.1394f82c.js.map": "/static/js/main.1394f82c.js.map",
+    "main.198d5380.css.map": "/static/css/main.198d5380.css.map",
+    "main.a15723f7.js.map": "/static/js/main.a15723f7.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9d7d38.css",
-    "static/js/main.1394f82c.js"
+    "static/css/main.198d5380.css",
+    "static/js/main.a15723f7.js"
   ]
 }
