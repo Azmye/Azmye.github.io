@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc92b93a.css",
-    "main.js": "/static/js/main.328300cd.js",
+    "main.css": "/static/css/main.cd77c091.css",
+    "main.js": "/static/js/main.60e00676.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/playwatch-desktop.png": "/static/media/playwatch-desktop.97d66ed054548e7ccc25.png",
     "static/media/playwatch-mobile.png": "/static/media/playwatch-mobile.4bfb8235828dc4df7822.png",
+    "static/media/mhmmd_azmi_resume.pdf": "/static/media/mhmmd_azmi_resume.1d7c18f3d6eb3ee900d3.pdf",
     "static/media/zeitplan-hr.png": "/static/media/zeitplan-hr.7e6e064c65fa20c129d4.png",
     "static/media/zeitplan-vr.png": "/static/media/zeitplan-vr.739c4aca3d0df65d003c.png",
-    "static/media/Muhammad Azmi_Resume.pdf": "/static/media/Muhammad Azmi_Resume.e055e4ecebaf77117fdf.pdf",
     "static/media/profile-1.png": "/static/media/profile-1.8f255b0a793bd867d5c9.png",
     "index.html": "/index.html",
-    "main.dc92b93a.css.map": "/static/css/main.dc92b93a.css.map",
-    "main.328300cd.js.map": "/static/js/main.328300cd.js.map",
+    "main.cd77c091.css.map": "/static/css/main.cd77c091.css.map",
+    "main.60e00676.js.map": "/static/js/main.60e00676.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc92b93a.css",
-    "static/js/main.328300cd.js"
+    "static/css/main.cd77c091.css",
+    "static/js/main.60e00676.js"
   ]
 }
