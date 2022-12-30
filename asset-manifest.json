@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.356bcc68.css",
-    "main.js": "/static/js/main.20398609.js",
-    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
-    "static/media/playwatch-desktop.png": "/static/media/playwatch-desktop.97d66ed054548e7ccc25.png",
-    "static/media/playwatch-mobile.png": "/static/media/playwatch-mobile.4bfb8235828dc4df7822.png",
-    "static/media/mhmmd_azmi_resume.pdf": "/static/media/mhmmd_azmi_resume.1d7c18f3d6eb3ee900d3.pdf",
-    "static/media/zeitplan-hr.png": "/static/media/zeitplan-hr.7e6e064c65fa20c129d4.png",
-    "static/media/zeitplan-vr.png": "/static/media/zeitplan-vr.739c4aca3d0df65d003c.png",
-    "static/media/profile-1.png": "/static/media/profile-1.8f255b0a793bd867d5c9.png",
-    "index.html": "/index.html",
-    "main.356bcc68.css.map": "/static/css/main.356bcc68.css.map",
-    "main.20398609.js.map": "/static/js/main.20398609.js.map",
-    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/previous-personal-website/static/css/main.356bcc68.css",
+    "main.js": "/previous-personal-website/static/js/main.90216b79.js",
+    "static/js/787.fb771931.chunk.js": "/previous-personal-website/static/js/787.fb771931.chunk.js",
+    "static/media/playwatch-desktop.png": "/previous-personal-website/static/media/playwatch-desktop.97d66ed054548e7ccc25.png",
+    "static/media/playwatch-mobile.png": "/previous-personal-website/static/media/playwatch-mobile.4bfb8235828dc4df7822.png",
+    "static/media/mhmmd_azmi_resume.pdf": "/previous-personal-website/static/media/mhmmd_azmi_resume.1d7c18f3d6eb3ee900d3.pdf",
+    "static/media/zeitplan-hr.png": "/previous-personal-website/static/media/zeitplan-hr.7e6e064c65fa20c129d4.png",
+    "static/media/zeitplan-vr.png": "/previous-personal-website/static/media/zeitplan-vr.739c4aca3d0df65d003c.png",
+    "static/media/profile-1.png": "/previous-personal-website/static/media/profile-1.8f255b0a793bd867d5c9.png",
+    "index.html": "/previous-personal-website/index.html",
+    "main.356bcc68.css.map": "/previous-personal-website/static/css/main.356bcc68.css.map",
+    "main.90216b79.js.map": "/previous-personal-website/static/js/main.90216b79.js.map",
+    "787.fb771931.chunk.js.map": "/previous-personal-website/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.356bcc68.css",
-    "static/js/main.20398609.js"
+    "static/js/main.90216b79.js"
   ]
 }
